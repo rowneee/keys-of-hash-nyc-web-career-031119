@@ -5,7 +5,9 @@ class Hash
       argument.each do |key, value|
         if argument == value
           new_arr << key
-      
+        end
+      end
     end
   end
+  new_arr
 end
