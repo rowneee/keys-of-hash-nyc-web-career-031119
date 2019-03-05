@@ -8,6 +8,6 @@ class Hash
         end
       end
     end
+    new_arr
   end
-  new_arr
 end
