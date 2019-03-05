@@ -1,6 +1,6 @@
 class Hash
   def keys_of(*arguments)
-    new_hash = {}
+    new_arr = []
     arguments.each do |key, value|
       
     end
